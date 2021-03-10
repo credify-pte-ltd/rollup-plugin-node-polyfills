@@ -1979,5 +1979,3 @@ function isSlowBuffer (obj) {
 }
 
 export { Buffer, INSPECT_MAX_BYTES, SlowBuffer, isBuffer, _kMaxLength as kMaxLength };
-export default { Buffer, INSPECT_MAX_BYTES, SlowBuffer, isBuffer, kMaxLength: _kMaxLength };
-
